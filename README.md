@@ -10,7 +10,8 @@ I run this script as a scheduled task upon boot, always running in background an
 ## customize brighness curve
 See around line 60. 
 
-##setup (python 3.7 to 3.9 only):
+## setup
+(python 3.7 to 3.9 only):
 pip install winrt  (to access the brightness sensor)
 In Windows, disable "automatic brighness when lighting changes"
 
